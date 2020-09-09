@@ -19,9 +19,16 @@ body {
         border-radius: 5px;
         padding: 1%;
     }
+
+    .contact-form {
+        font-weight: 800; 
+        font-size: 20px;
+        margin: 30px 0px;
+    }
 /*nav*/
 nav {
     display: flex;
+    flex-direction: row;
     justify-content: center;
     color: #FAD0C9FF;
 }
@@ -33,12 +40,11 @@ nav a {
 a {
     font-size: 15px; 
     text-decoration: none;
+    font-style: italic;
 }
 
 a:link {color: black;}
-a:visited {color: purple;}
 a:hover {color: #96f297;}
-a:active {color: #f9bc9f}
 
 /*background image/color*/
 .light-background {
