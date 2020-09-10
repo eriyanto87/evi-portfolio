@@ -117,3 +117,9 @@ a:hover {color: #96f297;}
 iframe {
     width: 100%;
 }
+
+.social-media {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+}
