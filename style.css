@@ -48,7 +48,7 @@ a:hover {color: #96f297;}
 /*background image/color*/
 .light-background {
     background-color: #FAD0C9FF;
-    color: #6E6E6DFF;
+    color: #2F2F2F;
     padding: 20px;
     border-radius: 5px;
 }   
@@ -100,7 +100,7 @@ a:hover {color: #96f297;}
 /*functional contact form*/
 .form {
     border: solid 3px #6E6E6DFF;
-    color: #6E6E6DFF; 
+    color: #2F2F2F; 
     background-color: #FAD0C9FF; 
     font-weight: 800;       
     padding: 3%;
