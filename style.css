@@ -93,7 +93,7 @@ a:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 2%;
+  gap: 1%;
 }
 
 .projects-images img {
@@ -120,8 +120,8 @@ a:hover {
   }
 
   .projects-images img {
-    height: 22%;
-    width: 22%;
+    height: 24%;
+    width: 24%;
     border: 1px solid #2f2f2f;
     border-radius: 3px;
   }
